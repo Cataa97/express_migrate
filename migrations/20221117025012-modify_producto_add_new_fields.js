@@ -4,7 +4,7 @@ module.exports = {
   up(queryInterface, Sequelize) {
     return Promise.all([
       queryInterface.addColumn(
-        'productos', // creando nueva columna "retiro" tipo BOOLEAN con defaultvalue "true"
+        'productos', // creando nueva columna "retiros" tipo BOOLEAN con defaultvalue "true"
         'retiros',
         {
           type: Sequelize.BOOLEAN,

@@ -1,33 +1,22 @@
 <h1>Proyecto express.js</h1>
-<p>Se incorporó nodemon y ENV (solicitar credenciales)</p>
+<p>Se incorporó migración y se agregaron columnas los modelos de productos, pedidos y clientes</p>
 
-Registrando usuario: 
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/register.png)
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/user_data.png)
+<p>Creación SequelizeMeta</p>
 
-Login usuario:
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/login.png)
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/jwt.png)
+![Image text](https://github.com/Cataa97/express_crud/blob/main/img/sequelize.png)
 
+<p>Ejecución de Migración en Consola </p>
 
-Conexión a la base de datos: 
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/postman.png)
+![Image text](https://github.com/Cataa97/express_crud/blob/main/img/consola.png)
 
-Creando producto:
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/create.png)
+<p>Modificación de clientes representado en DB</p>
 
-Actualizando producto:
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/put.png)
+![Image text](https://github.com/Cataa97/express_crud/blob/main/img/clientes.png)
 
-Eliminando producto:
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/del.png)
+<p>Modificación de pedidos representado en DB</p>
 
-Filtrando por ID:
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/by_id.png)
+![Image text](https://github.com/Cataa97/express_crud/blob/main/img/pedidos.png)
 
-Script Database:  (Simplificada)
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/script.png)
+<p>Modificación de productos representado en DB</p>
 
-ER Diagram: 
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/diagrama.png)
-
+![Image text](https://github.com/Cataa97/express_crud/blob/main/img/productos.png)
