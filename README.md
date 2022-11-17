@@ -3,20 +3,20 @@
 
 <p>Creación SequelizeMeta</p>
 
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/sequelize.png)
+![Image text](https://github.com/Cataa97/express_migrate/blob/main/img/sequelize.png)
 
 <p>Ejecución de Migración en Consola </p>
 
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/consola.png)
+![Image text](https://github.com/Cataa97/express_migrate/blob/main/img/consola.png)
 
 <p>Modificación de clientes representado en DB</p>
 
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/clientes.png)
+![Image text](https://github.com/Cataa97/express_migrate/blob/main/img/clientes.png)
 
 <p>Modificación de pedidos representado en DB</p>
 
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/pedidos.png)
+![Image text](https://github.com/Cataa97/express_migrate/blob/main/img/pedidos.png)
 
 <p>Modificación de productos representado en DB</p>
 
-![Image text](https://github.com/Cataa97/express_crud/blob/main/img/productos.png)
+![Image text](https://github.com/Cataa97/express_migrate/blob/main/img/productos.png)
